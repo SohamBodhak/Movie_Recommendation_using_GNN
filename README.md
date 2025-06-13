@@ -91,9 +91,7 @@ See `requirements.txt` for a complete list of dependencies. Key packages include
 - GPU acceleration is recommended for training GCN, GAT, and LightGCN models.
 - The notebook assumes `u.data` and `u.item` are in the correct format. Verify file encodings (latin-1 for u.item).
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
